@@ -1,0 +1,10 @@
+{
+  "name": "Remix TripPilot AI",
+  "description": "Plan Smarter, Travel Safer, Explore Better. An AI-powered travel platform featuring personalized planners, real-time safety scores, budget optimizers, scam detectors, and a Muslim traveler assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
