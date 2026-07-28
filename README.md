@@ -82,7 +82,10 @@ Return the results matching the requested JSON schema, including specific activi
 ![AI Travel Planner Screenshot](https://via.placeholder.com/800x450?text=AI+Travel+Planner)
 
 ### Scam Shield Security Deck
-![Scam Shield Screenshot](https://via.placeholder.com/800x450?text=Scam+Shield+Verification)
+/Screenshot_20260728_001228 (1).jpg
+
+
+
 
 ---
 
