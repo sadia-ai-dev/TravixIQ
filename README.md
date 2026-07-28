@@ -79,7 +79,10 @@ Return the results matching the requested JSON schema, including specific activi
 ![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Dashboard+Cockpit+View)
 
 ### AI Travel Planner
-![AI Travel Planner Screenshot](https://via.placeholder.com/800x450?text=AI+Travel+Planner)
+/Screenshot_20260728_001242 (1).jpg
+
+
+
 
 ### Scam Shield Security Deck
 /Screenshot_20260728_001228 (1).jpg
