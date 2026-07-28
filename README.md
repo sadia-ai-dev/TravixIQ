@@ -79,7 +79,7 @@ Return the results matching the requested JSON schema, including specific activi
 ![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Dashboard+Cockpit+View)
 
 ### AI Travel Planner
-/Screenshot_20260728_001242 (1).jpg
+https://github.com/sadia-ai-dev/TravixIQ/blob/main/Screenshot_20260728_001242%20(1).jpg
 
 
 
