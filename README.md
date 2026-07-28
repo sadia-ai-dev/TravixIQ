@@ -85,7 +85,7 @@ Return the results matching the requested JSON schema, including specific activi
 
 
 ### Scam Shield Security Deck
-/Screenshot_20260728_001228 (1).jpg
+https://github.com/sadia-ai-dev/TravixIQ/blob/main/Screenshot_20260728_001228%20(1).jpg
 
 
 
