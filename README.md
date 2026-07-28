@@ -79,7 +79,7 @@ Return the results matching the requested JSON schema, including specific activi
 https://github.com/sadia-ai-dev/TravixIQ/blob/main/Screenshot_20260728_001256%20(1).jpg
 
 ### AI Travel Planner
-https://github.com/sadia-ai-dev/TravixIQ/blob/main/Screenshot_20260728_001242%20(1).jpg
+https://github.com/sadia-ai-dev/TravixIQ/blob/main/Screenshot_20260728_001249%20(1).jpg
 
 
 
